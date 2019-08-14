@@ -39,6 +39,7 @@ class EmployeeTest {
 		});
 		assertNotEquals(6999, e.getSalary());
 	}
+	//help pals 
 
 	@Test
 	void testSalaryMinSuccess() {
